@@ -1,0 +1,7 @@
+.main-home-cont {
+  display: flex;
+  min-height: 100vh;
+  padding: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
